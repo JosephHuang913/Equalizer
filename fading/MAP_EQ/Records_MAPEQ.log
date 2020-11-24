@@ -1,0 +1,218 @@
+BER Performance of MAP Equalizer in multipath fading channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+04 (bps)
+f_d * t = 0.022222
+number of bits of simulation = 10000000
+
+Eb/No     BER
+0.000000 2.151701e-01
+2.000000 1.711392e-01
+4.000000 1.278209e-01
+6.000000 8.876110e-02
+8.000000 5.740210e-02
+10.000000 3.461970e-02
+12.000000 2.003350e-02
+14.000000 1.104440e-02
+16.000000 5.940200e-03
+18.000000 3.123900e-03
+20.000000 1.636400e-03
+22.000000 8.629000e-04
+24.000000 5.228000e-04
+26.000000 5.886000e-04
+28.000000 8.137000e-04
+30.000000 9.183000e-04
+
+Total elapsed time: 20571(sec)
+
+BER Performance of MAP Equalizer in multipath fading channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000222
+number of bits of simulation = 10000000
+
+Eb/No     BER
+0.000000 2.147502e-01
+2.000000 1.706369e-01
+4.000000 1.270979e-01
+6.000000 8.790600e-02
+8.000000 5.670340e-02
+10.000000 3.430550e-02
+12.000000 1.962380e-02
+14.000000 1.078750e-02
+16.000000 5.829400e-03
+18.000000 3.153500e-03
+20.000000 1.662100e-03
+22.000000 8.707000e-04
+24.000000 5.344000e-04
+26.000000 4.984000e-04
+28.000000 7.649000e-04
+30.000000 1.328300e-03
+
+Total elapsed time: 17929(sec)
+
+BER Performance of MAP Equalizer in multipath fading channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+03 (bps)
+f_d * t = 0.222222
+number of bits of simulation = 10000000
+
+Eb/No     BER
+0.000000 2.264420e-01
+2.000000 1.857501e-01
+4.000000 1.437814e-01
+6.000000 1.025876e-01
+8.000000 6.642780e-02
+10.000000 3.894390e-02
+12.000000 2.121100e-02
+14.000000 1.085920e-02
+16.000000 5.475600e-03
+18.000000 2.718800e-03
+20.000000 1.353300e-03
+22.000000 6.812000e-04
+24.000000 3.508000e-04
+26.000000 1.886000e-04
+28.000000 1.271000e-04
+30.000000 1.797000e-04
+
+Total elapsed time: 33698(sec)
+
+BER Performance of MAP Equalizer in multipath fading channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000222
+number of bits of simulation = 10000000
+
+Eb/No     BER
+0.000000 2.147788e-01
+2.000000 1.703522e-01
+4.000000 1.271840e-01
+6.000000 8.801910e-02
+8.000000 5.673720e-02
+10.000000 3.416110e-02
+12.000000 1.960750e-02
+14.000000 1.079940e-02
+16.000000 5.838100e-03
+18.000000 3.142000e-03
+20.000000 1.640400e-03
+22.000000 8.730000e-04
+24.000000 6.404000e-04
+BER Performance of MAP Equalizer in multipath fading channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000222
+number of bits of simulation = 10000000
+
+Eb/No     BER
+0.000000 2.144501e-01
+2.000000 1.703456e-01
+4.000000 1.269857e-01
+6.000000 8.790650e-02
+8.000000 5.669720e-02
+10.000000 3.416480e-02
+12.000000 1.956710e-02
+14.000000 1.085920e-02
+16.000000 5.886000e-03
+18.000000 3.124200e-03
+20.000000 1.681300e-03
+22.000000 8.792000e-04
+24.000000 6.681000e-04
+BER Performance of MAP Equalizer in multipath fading channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000222
+number of bits of simulation = 10000000
+
+Eb/No     BER
+0.000000 2.147329e-01
+2.000000 1.705731e-01
+4.000000 1.269137e-01
+6.000000 8.789350e-02
+8.000000 5.662430e-02
+10.000000 3.426740e-02
+12.000000 1.959270e-02
+14.000000 1.086430e-02
+16.000000 5.813000e-03
+18.000000 3.132200e-03
+20.000000 1.655100e-03
+22.000000 8.659000e-04
+24.000000 6.286000e-04
+26.000000 6.399000e-04
+28.000000 9.668000e-04
+30.000000 1.081900e-03
+
+Total elapsed time: 21101(sec)
+
+BER Performance of MAP Equalizer in multipath fading channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000222
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 1.119360e-01
+1.000000 8.901700e-02
+2.000000 6.920600e-02
+3.000000 5.230300e-02
+4.000000 3.756100e-02
+5.000000 2.594600e-02
+6.000000 1.767200e-02
+7.000000 1.129900e-02
+8.000000 7.356000e-03
+9.000000 4.457000e-03
+10.000000 2.634000e-03
+
+Total elapsed time: 1304(sec)
+
+BER Performance of MAP Equalizer in multipath fading channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+03 (bps)
+f_d * t = 0.222222
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 1.189930e-01
+1.000000 9.631900e-02
+2.000000 7.529900e-02
+3.000000 5.606500e-02
+4.000000 4.060500e-02
+5.000000 2.816500e-02
+6.000000 1.840000e-02
+7.000000 1.169000e-02
+8.000000 7.038000e-03
+9.000000 4.107000e-03
+10.000000 2.353000e-03
+
+Total elapsed time: 1616(sec)
+

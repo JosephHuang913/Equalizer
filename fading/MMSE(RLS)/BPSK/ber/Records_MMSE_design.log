@@ -1,0 +1,845 @@
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 5.040700e-01
+1.000000 5.018100e-01
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 8.101000e-02
+1.000000 5.789900e-02
+2.000000 3.852100e-02
+3.000000 2.348700e-02
+4.000000 1.280700e-02
+5.000000 6.135000e-03
+6.000000 2.489000e-03
+7.000000 8.610000e-04
+8.000000 1.820000e-04
+9.000000 3.500000e-05
+10.000000 0.000000e+00
+
+Total elapsed time: 372(sec)
+
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 1.469220e-01
+1.000000 1.019300e-01
+2.000000 7.313700e-02
+3.000000 4.982900e-02
+4.000000 3.231000e-02
+5.000000 1.889000e-02
+6.000000 9.913000e-03
+7.000000 4.687000e-03
+8.000000 1.732000e-03
+9.000000 5.590000e-04
+10.000000 1.220000e-04
+
+Total elapsed time: 368(sec)
+
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 2.999860e-01
+1.000000 2.439240e-01
+2.000000 2.226630e-01
+3.000000 2.087150e-01
+4.000000 2.019940e-01
+5.000000 1.984110e-01
+6.000000 1.977310e-01
+7.000000 1.467060e-01
+8.000000 9.002600e-02
+9.000000 7.598800e-02
+10.000000 6.437800e-02
+
+Total elapsed time: 376(sec)
+
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 2.769260e-01
+2.000000 2.257730e-01
+4.000000 2.016400e-01
+6.000000 1.991940e-01
+8.000000 8.926500e-02
+10.000000 6.426600e-02
+12.000000 4.681000e-02
+14.000000 3.380100e-02
+16.000000 2.437400e-02
+18.000000 1.660500e-02
+20.000000 1.077100e-02
+
+Total elapsed time: 362(sec)
+
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 2.725270e-01
+2.000000 2.221420e-01
+4.000000 2.020460e-01
+6.000000 1.971870e-01
+8.000000 8.951400e-02
+10.000000 6.435400e-02
+12.000000 4.674800e-02
+14.000000 3.325900e-02
+16.000000 2.390500e-02
+18.000000 1.649400e-02
+20.000000 1.085900e-02
+22.000000 6.784000e-03
+24.000000 3.926000e-03
+26.000000 1.954000e-03
+28.000000 1.114000e-03
+30.000000 6.190000e-04
+
+Total elapsed time: 539(sec)
+
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 2.966920e-01
+2.000000 2.597470e-01
+4.000000 2.318570e-01
+6.000000 1.071630e-01
+8.000000 6.684400e-02
+10.000000 4.527200e-02
+12.000000 3.156400e-02
+14.000000 2.305300e-02
+16.000000 1.768100e-02
+18.000000 1.471200e-02
+20.000000 1.276800e-02
+22.000000 1.145400e-02
+24.000000 1.077100e-02
+26.000000 1.036600e-02
+28.000000 1.029500e-02
+30.000000 1.050200e-02
+
+Total elapsed time: 527(sec)
+
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 30.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 55.555556 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000056
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 5.046440e-01
+5.000000 4.767470e-01
+10.000000 5.237040e-01
+15.000000 4.848160e-01
+20.000000 4.654290e-01
+25.000000 4.654990e-01
+30.000000 2.690000e-04
+
+Total elapsed time: 941(sec)
+
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 60.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 111.111111 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000111
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 5.004480e-01
+5.000000 4.887010e-01
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 60.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 111.111111 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000111
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 5.021070e-01
+5.000000 5.022730e-01
+10.000000 5.019360e-01
+15.000000 4.400870e-01
+20.000000 3.945340e-01
+25.000000 1.364060e-01
+30.000000 1.000000e-05
+
+Total elapsed time: 885(sec)
+
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 30.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 55.555556 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000056
+number of bits of simulation = 1000000
+
+Eb/No     BER
+10.000000 4.736040e-01
+12.000000 5.486860e-01
+14.000000 6.396400e-01
+16.000000 5.163940e-01
+18.000000 4.262080e-01
+20.000000 4.654020e-01
+22.000000 4.651000e-01
+24.000000 4.878900e-01
+26.000000 2.495610e-01
+28.000000 2.492480e-01
+30.000000 2.140000e-04
+
+Total elapsed time: 1392(sec)
+
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 60.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 111.111111 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000111
+number of bits of simulation = 1000000
+
+Eb/No     BER
+10.000000 5.072270e-01
+12.000000 5.287490e-01
+14.000000 4.700110e-01
+16.000000 5.252550e-01
+18.000000 5.210670e-01
+20.000000 4.719920e-01
+22.000000 5.227670e-01
+24.000000 4.833100e-01
+26.000000 5.057610e-01
+28.000000 4.437640e-01
+30.000000 3.802360e-01
+
+Total elapsed time: 1394(sec)
+
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 60.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 111.111111 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000111
+number of bits of simulation = 1000000
+
+Eb/No     BER
+20.000000 5.308760e-01
+22.000000 4.838230e-01
+24.000000 5.186040e-01
+26.000000 5.049490e-01
+28.000000 6.446770e-01
+30.000000 3.363030e-01
+
+Total elapsed time: 768(sec)
+
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 30.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 55.555556 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000056
+number of bits of simulation = 1000000
+
+Eb/No     BER
+20.000000 6.450000e-04
+22.000000 2.490000e-04
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 60.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 111.111111 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000111
+number of bits of simulation = 1000000
+
+Eb/No     BER
+15.000000 4.807210e-01
+17.000000 4.626340e-01
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 60.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 111.111111 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000111
+number of bits of simulation = 1000000
+
+Eb/No     BER
+20.000000 3.957650e-01
+22.000000 3.917440e-01
+24.000000 4.188590e-01
+26.000000 8.600000e-05
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 60.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 111.111111 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000111
+number of bits of simulation = 1000000
+
+Eb/No     BER
+20.000000 5.075370e-01
+22.000000 4.453680e-01
+24.000000 2.279310e-01
+26.000000 1.361150e-01
+28.000000 2.235710e-01
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000222
+number of bits of simulation = 1000000
+
+Eb/No     BER
+20.000000 5.037880e-01
+22.000000 4.130200e-01
+24.000000 4.525860e-01
+26.000000 3.711460e-01
+28.000000 2.308870e-01
+30.000000 3.701040e-01
+
+Total elapsed time: 762(sec)
+
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 30.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 55.555556 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000056
+number of bits of simulation = 1000000
+
+Eb/No     BER
+20.000000 1.640000e-04
+22.000000 7.800000e-05
+24.000000 4.500000e-05
+26.000000 2.100000e-05
+28.000000 2.300000e-05
+30.000000 2.800000e-05
+
+Total elapsed time: 763(sec)
+
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 30.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 55.555556 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000056
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 5.292420e-01
+2.000000 4.905020e-01
+4.000000 5.061530e-01
+6.000000 4.708370e-01
+8.000000 4.880010e-01
+10.000000 4.998620e-01
+12.000000 1.982280e-01
+14.000000 3.084000e-03
+16.000000 1.201000e-03
+18.000000 3.990000e-04
+20.000000 1.430000e-04
+22.000000 6.800000e-05
+24.000000 4.900000e-05
+26.000000 1.800000e-05
+28.000000 1.000000e-05
+30.000000 1.200000e-05
+
+Total elapsed time: 2033(sec)
+
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 30.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 55.555556 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000056
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 4.906730e-01
+2.000000 5.078200e-01
+4.000000 5.092150e-01
+6.000000 5.262000e-01
+8.000000 4.912710e-01
+10.000000 4.570520e-01
+12.000000 3.503430e-01
+14.000000 5.500020e-01
+16.000000 3.971000e-03
+18.000000 1.706000e-03
+20.000000 7.220000e-04
+22.000000 2.680000e-04
+24.000000 8.700000e-05
+26.000000 2.800000e-05
+28.000000 1.100000e-05
+30.000000 4.000000e-06
+
+Total elapsed time: 2031(sec)
+
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 30.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 55.555556 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000056
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 4.911910e-01
+2.000000 4.971950e-01
+4.000000 4.840340e-01
+6.000000 4.899130e-01
+8.000000 4.926480e-01
+10.000000 4.700780e-01
+12.000000 4.992610e-01
+14.000000 4.734680e-01
+16.000000 4.834440e-01
+18.000000 4.808340e-01
+20.000000 5.006280e-01
+22.000000 4.575800e-01
+24.000000 4.717910e-01
+26.000000 4.639750e-01
+28.000000 4.641080e-01
+30.000000 4.253020e-01
+
+Total elapsed time: 2022(sec)
+
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 30.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 55.555556 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000056
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 4.900420e-01
+2.000000 4.831950e-01
+4.000000 4.971200e-01
+6.000000 5.326270e-01
+8.000000 4.939100e-01
+10.000000 4.806990e-01
+12.000000 4.583680e-01
+14.000000 4.870180e-01
+16.000000 3.802000e-03
+18.000000 1.813000e-03
+20.000000 6.330000e-04
+22.000000 2.460000e-04
+24.000000 1.130000e-04
+26.000000 4.600000e-05
+28.000000 1.600000e-05
+30.000000 8.000000e-06
+
+Total elapsed time: 2017(sec)
+
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 30.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 55.555556 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000056
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 4.720660e-01
+2.000000 4.765780e-01
+4.000000 5.112930e-01
+6.000000 4.773630e-01
+8.000000 5.134300e-01
+10.000000 4.733870e-01
+12.000000 5.156170e-01
+14.000000 3.448110e-01
+16.000000 2.107750e-01
+18.000000 1.587000e-03
+20.000000 7.270000e-04
+22.000000 2.490000e-04
+24.000000 9.800000e-05
+26.000000 4.400000e-05
+28.000000 1.000000e-05
+30.000000 7.000000e-06
+
+Total elapsed time: 2026(sec)
+
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 60.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 111.111111 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000111
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 5.066160e-01
+2.000000 5.076070e-01
+4.000000 4.943040e-01
+6.000000 5.021490e-01
+8.000000 5.168780e-01
+10.000000 5.074760e-01
+12.000000 5.004700e-01
+14.000000 4.925210e-01
+16.000000 4.568910e-01
+18.000000 5.126650e-01
+20.000000 4.319610e-01
+22.000000 4.733380e-01
+24.000000 3.948680e-01
+26.000000 1.310000e-04
+28.000000 7.000000e-05
+30.000000 1.800000e-05
+
+Total elapsed time: 2036(sec)
+
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 5.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 9.259259 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000009
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 3.049080e-01
+2.000000 4.865620e-01
+4.000000 4.926020e-01
+6.000000 1.381490e-01
+8.000000 1.229330e-01
+10.000000 1.119370e-01
+12.000000 9.265000e-03
+14.000000 4.853000e-03
+16.000000 2.289000e-03
+18.000000 1.036000e-03
+20.000000 3.570000e-04
+22.000000 1.280000e-04
+24.000000 5.700000e-05
+26.000000 1.300000e-05
+28.000000 1.100000e-05
+30.000000 5.000000e-06
+
+Total elapsed time: 2033(sec)
+
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 5.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 9.259259 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000009
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 5.186730e-01
+2.000000 4.809370e-01
+4.000000 2.711710e-01
+6.000000 3.823740e-01
+8.000000 3.617000e-02
+10.000000 1.076270e-01
+12.000000 9.199000e-03
+14.000000 4.821000e-03
+16.000000 2.244000e-03
+18.000000 9.490000e-04
+20.000000 4.010000e-04
+22.000000 1.070000e-04
+24.000000 4.300000e-05
+26.000000 2.300000e-05
+28.000000 9.000000e-06
+30.000000 3.000000e-06
+
+Total elapsed time: 2239(sec)
+
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 5.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 9.259259 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000009
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 4.706260e-01
+2.000000 5.984830e-01
+4.000000 2.777120e-01
+6.000000 1.303820e-01
+8.000000 1.078550e-01
+10.000000 4.563300e-02
+12.000000 1.564100e-02
+14.000000 1.291900e-02
+16.000000 1.758000e-03
+18.000000 7.170000e-04
+20.000000 3.000000e-04
+22.000000 2.340000e-04
+24.000000 1.940000e-04
+26.000000 7.900000e-05
+28.000000 7.500000e-05
+30.000000 8.500000e-05
+
+Total elapsed time: 2041(sec)
+
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 5.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 9.259259 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000009
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 4.553420e-01
+2.000000 5.159180e-01
+4.000000 4.500720e-01
+6.000000 1.222310e-01
+8.000000 3.520500e-02
+10.000000 1.959100e-02
+12.000000 4.965000e-03
+14.000000 1.800000e-03
+16.000000 6.730000e-04
+18.000000 2.040000e-04
+20.000000 8.500000e-05
+22.000000 2.300000e-05
+24.000000 5.000000e-06
+26.000000 3.000000e-06
+28.000000 1.000000e-06
+30.000000 2.000000e-06
+
+Total elapsed time: 2064(sec)
+
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 30.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 55.555556 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000056
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 5.065490e-01
+2.000000 4.687520e-01
+4.000000 5.276930e-01
+6.000000 4.728750e-01
+8.000000 5.024980e-01
+10.000000 4.362220e-01
+12.000000 1.307040e-01
+14.000000 2.082000e-03
+16.000000 7.750000e-04
+18.000000 2.780000e-04
+20.000000 9.300000e-05
+22.000000 4.900000e-05
+24.000000 2.400000e-05
+26.000000 2.200000e-05
+28.000000 4.000000e-06
+30.000000 3.000000e-06
+
+Total elapsed time: 2044(sec)
+
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 60.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 111.111111 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000111
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 5.014060e-01
+2.000000 4.968830e-01
+4.000000 5.022300e-01
+6.000000 4.771600e-01
+8.000000 5.272750e-01
+10.000000 4.916780e-01
+12.000000 5.175270e-01
+14.000000 3.904350e-01
+16.000000 3.950790e-01
+18.000000 5.500000e-04
+20.000000 3.000000e-04
+22.000000 1.220000e-04
+24.000000 5.700000e-05
+26.000000 5.200000e-05
+28.000000 7.000000e-05
+30.000000 5.900000e-05
+
+Total elapsed time: 2059(sec)
+
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000222
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 5.021710e-01
+2.000000 4.978850e-01
+4.000000 5.080070e-01
+6.000000 4.971670e-01
+8.000000 4.876360e-01
+10.000000 5.063660e-01
+12.000000 4.827470e-01
+14.000000 4.634080e-01
+16.000000 5.027440e-01
+18.000000 5.128730e-01
+20.000000 4.217220e-01
+22.000000 6.271210e-01
+24.000000 3.285690e-01
+26.000000 2.719790e-01
+28.000000 4.515730e-01
+30.000000 2.305690e-01
+
+Total elapsed time: 2045(sec)
+
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000222
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 5.021050e-01
+2.000000 4.998580e-01
+4.000000 5.009800e-01
+6.000000 4.997810e-01
+8.000000 5.002240e-01
+10.000000 5.015810e-01
+12.000000 5.027520e-01
+14.000000 5.087110e-01
+16.000000 5.027810e-01
+18.000000 5.027380e-01
+20.000000 5.257250e-01
+22.000000 4.903450e-01
+24.000000 5.121250e-01
+26.000000 4.859580e-01
+28.000000 4.914090e-01
+30.000000 4.802570e-01
+
+Total elapsed time: 2043(sec)
+
+MSE Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000222
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 4.985220e-01
+2.000000 4.935920e-01
+4.000000 4.964120e-01
+6.000000 4.966720e-01
+8.000000 4.898820e-01
+10.000000 5.124620e-01
+12.000000 4.630430e-01
+14.000000 4.217150e-01
+16.000000 4.656880e-01
+18.000000 4.918890e-01
+20.000000 3.946360e-01
+22.000000 3.863800e-01
+24.000000 3.793960e-01
+26.000000 4.341830e-01
+28.000000 1.893290e-01
+30.000000 5.150640e-01
+
+Total elapsed time: 2035(sec)
+

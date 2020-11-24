@@ -1,0 +1,129 @@
+BER Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+Proakis A channel is used
+Multipath weighting factor: {0.04 -0.05 0.07 -0.21 -0.5 0.72 0.36 0.0 0.21 0.03 0.07}
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 10000000
+
+Eb/No     BER
+0.000000 3.069170e-01
+1.000000 3.005431e-01
+2.000000 2.943555e-01
+3.000000 2.866619e-01
+4.000000 1.247085e-01
+5.000000 1.007945e-01
+6.000000 8.102060e-02
+7.000000 6.298940e-02
+8.000000 4.968060e-02
+9.000000 3.634100e-02
+10.000000 2.688010e-02
+11.000000 1.949340e-02
+12.000000 1.396860e-02
+13.000000 9.900900e-03
+14.000000 7.141400e-03
+15.000000 5.133000e-03
+16.000000 3.730900e-03
+17.000000 2.766900e-03
+18.000000 2.088900e-03
+19.000000 1.599300e-03
+20.000000 1.278100e-03
+21.000000 1.026600e-03
+22.000000 8.792000e-04
+23.000000 7.321000e-04
+24.000000 6.373000e-04
+25.000000 5.802000e-04
+26.000000 5.203000e-04
+27.000000 4.862000e-04
+28.000000 4.432000e-04
+29.000000 4.276000e-04
+30.000000 4.163000e-04
+
+Total elapsed time: 2300(sec)
+
+BER Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+Proakis A channel is used
+Multipath weighting factor: {0.04 -0.05 0.07 -0.21 -0.5 0.72 0.36 0.0 0.21 0.03 0.07}
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 10000000
+
+Eb/No     BER
+0.000000 3.064377e-01
+5.000000 1.010687e-01
+10.000000 2.696170e-02
+15.000000 5.160600e-03
+20.000000 1.256500e-03
+25.000000 5.710000e-04
+30.000000 4.135000e-04
+
+Total elapsed time: 520(sec)
+
+BER Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+Proakis A channel is used
+Multipath weighting factor: {0.04 -0.05 0.07 -0.21 -0.5 0.72 0.36 0.0 0.21 0.03 0.07}
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 3.051160e-01
+5.000000 2.757200e-01
+10.000000 2.753100e-02
+15.000000 5.091000e-03
+20.000000 1.230000e-03
+25.000000 5.590000e-04
+30.000000 4.030000e-04
+
+Total elapsed time: 52(sec)
+
+BER Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+Proakis A channel is used
+Multipath weighting factor: {0.04 -0.05 0.07 -0.21 -0.5 0.72 0.36 0.0 0.21 0.03 0.07}
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 3.011500e-01
+5.000000 1.033970e-01
+10.000000 3.065300e-02
+15.000000 8.597000e-03
+20.000000 3.062000e-03
+25.000000 1.922000e-03
+30.000000 1.484000e-03
+
+Total elapsed time: 52(sec)
+
+BER Performance of adaptive MMSE EQ (Kalman Filter) in Multipath Fading Channel
+Proakis A channel is used
+Multipath weighting factor: {0.04 -0.05 0.07 -0.21 -0.5 0.72 0.36 0.0 0.21 0.03 0.07}
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000000
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 2.962560e-01
+5.000000 1.003520e-01
+10.000000 3.066500e-02
+15.000000 8.335000e-03
+20.000000 3.229000e-03
+25.000000 1.773000e-03
+30.000000 1.343000e-03
+
+Total elapsed time: 52(sec)
+

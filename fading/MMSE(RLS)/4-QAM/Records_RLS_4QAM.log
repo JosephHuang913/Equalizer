@@ -1,0 +1,188 @@
+BER Performance of Adaptive RLS EQ (4-QAM) in multipath ISI channel
+Modulation Scheme: 4-QAM
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 150.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 277.777778 (Hz)
+Transmission bit Rate = 5.000000e+05 (bps)
+f_d * t = 0.000556
+Eb/No     BER
+0.000000 2.317226e-01 
+2.000000 1.835061e-01 
+4.000000 1.390955e-01 
+6.000000 9.216463e-02 
+8.000000 5.762195e-02 
+10.000000 3.696138e-02 
+12.000000 2.339939e-02 
+14.000000 1.455285e-02 
+16.000000 1.067914e-02 
+18.000000 7.622713e-03 
+20.000000 6.549689e-03 
+
+Total elapsed time: 498(sec)
+
+BER Performance of Adaptive RLS EQ (4-QAM) in multipath ISI channel
+Modulation Scheme: 4-QAM
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 150.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 277.777778 (Hz)
+Transmission bit Rate = 5.000000e+05 (bps)
+f_d * t = 0.000556
+Eb/No     BER
+0.000000 2.033079e-01 
+2.000000 1.664329e-01 
+4.000000 1.436280e-01 
+6.000000 1.149797e-01 
+8.000000 9.695884e-02 
+10.000000 8.448171e-02 
+12.000000 7.112805e-02 
+14.000000 6.632927e-02 
+16.000000 6.235366e-02 
+18.000000 6.126016e-02 
+20.000000 5.921748e-02 
+
+Total elapsed time: 131(sec)
+
+BER Performance of Adaptive RLS EQ (4-QAM) in multipath ISI channel
+Modulation Scheme: 4-QAM
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.407, 0.815, 0.407}
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 5.000000e+05 (bps)
+f_d * t = 0.000000
+Eb/No     BER
+0.000000 1.894055e-01 
+2.000000 1.634299e-01 
+4.000000 1.356504e-01 
+6.000000 1.084045e-01 
+8.000000 8.318598e-02 
+10.000000 6.292683e-02 
+12.000000 5.040941e-02 
+14.000000 3.988948e-02 
+16.000000 3.475610e-02 
+18.000000 3.169512e-02 
+20.000000 3.095122e-02 
+
+Total elapsed time: 11(sec)
+
+BER Performance of Adaptive RLS EQ (4-QAM) in multipath ISI channel
+Modulation Scheme: 4-QAM
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.407, 0.815, 0.407}
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 5.000000e+05 (bps)
+f_d * t = 0.000000
+Eb/No     BER
+10.000000 6.544512e-02 
+12.000000 4.968641e-02 
+14.000000 4.033918e-02 
+16.000000 3.399729e-02 
+18.000000 3.146951e-02 
+20.000000 3.073171e-02 
+22.000000 3.183841e-02 
+24.000000 3.069207e-02 
+26.000000 3.117683e-02 
+28.000000 2.994180e-02 
+30.000000 2.988636e-02 
+
+Total elapsed time: 17(sec)
+
+BER Performance of Adaptive RLS EQ (4-QAM) in multipath ISI channel
+Modulation Scheme: 4-QAM
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.407, 0.815, 0.407}
+Speed of the vehicle = 0.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 0.000000 (Hz)
+Transmission bit Rate = 5.000000e+05 (bps)
+f_d * t = 0.000000
+Eb/No     BER
+10.000000 5.673272e-02 
+12.000000 4.424216e-02 
+14.000000 3.271951e-02 
+16.000000 2.320122e-02 
+18.000000 1.645218e-02 
+20.000000 1.049085e-02 
+22.000000 6.281732e-03 
+24.000000 3.565301e-03 
+26.000000 2.210695e-03 
+28.000000 1.343737e-03 
+30.000000 8.370364e-04 
+
+Total elapsed time: 467(sec)
+
+BER Performance of Adaptive RLS EQ (4-QAM) in multipath ISI channel
+Modulation Scheme: 4-QAM
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 150.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 277.777778 (Hz)
+Transmission bit Rate = 5.000000e+05 (bps)
+f_d * t = 0.000556
+Eb/No     BER
+BER Performance of Adaptive RLS EQ (4-QAM) in multipath ISI channel
+Modulation Scheme: 4-QAM
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 150.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 277.777778 (Hz)
+Transmission bit Rate = 5.000000e+05 (bps)
+f_d * t = 0.000556
+Eb/No     BER
+0.000000 2.366159e-01 
+2.000000 1.810823e-01 
+4.000000 1.418598e-01 
+6.000000 8.836890e-02 
+8.000000 5.980691e-02 
+10.000000 3.811357e-02 
+12.000000 2.278963e-02 
+14.000000 1.501307e-02 
+16.000000 1.022817e-02 
+18.000000 7.579566e-03 
+20.000000 6.463415e-03 
+22.000000 5.577091e-03 
+24.000000 5.059976e-03 
+26.000000 4.915796e-03 
+28.000000 4.770389e-03 
+30.000000 4.772983e-03 
+
+Total elapsed time: 1346(sec)
+
+BER Performance of Adaptive RLS EQ (4-QAM) in multipath ISI channel
+Modulation Scheme: 4-QAM
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 135.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 250.000000 (Hz)
+Transmission bit Rate = 5.000000e+05 (bps)
+f_d * t = 0.000500
+Eb/No     BER
+0.000000 2.135366e-01 
+2.000000 1.599238e-01 
+4.000000 1.092988e-01 
+6.000000 7.792683e-02 
+8.000000 4.849739e-02 
+10.000000 3.099085e-02 
+12.000000 1.984184e-02 
+14.000000 1.389274e-02 
+16.000000 9.778011e-03 
+18.000000 7.802591e-03 
+20.000000 5.975023e-03 
+22.000000 5.401598e-03 
+24.000000 4.582727e-03 
+26.000000 4.354603e-03 
+28.000000 4.394109e-03 
+30.000000 4.183094e-03 
+
+Total elapsed time: 1524(sec)
+

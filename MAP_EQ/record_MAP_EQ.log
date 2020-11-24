@@ -1,0 +1,52 @@
+MAP Equalizer in ISI channel {0.407,0.815,0.407} with Eb/N0 = 0.000000 dB
+Average bit error rate = 1.037705e-01
+number of bits of simulation = 1024000
+
+MAP Equalizer in ISI channel {0.407,0.815,0.407} with Eb/N0 = 2.000000 dB
+Average bit error rate = 4.982813e-02
+number of bits of simulation = 1024000
+
+MAP Equalizer in ISI channel {0.407,0.815,0.407} with Eb/N0 = 4.000000 dB
+Average bit error rate = 1.346094e-02
+number of bits of simulation = 1024000
+
+MAP Equalizer in ISI channel {0.407,0.815,0.407} with Eb/N0 = 6.000000 dB
+Average bit error rate = 1.713867e-03
+number of bits of simulation = 1024000
+
+MAP Equalizer in ISI channel {0.407,0.815,0.407} with Eb/N0 = 8.000000 dB
+Average bit error rate = 1.103516e-04
+number of bits of simulation = 1024000
+
+MAP Equalizer in ISI channel {0.407,0.815,0.407} with Eb/N0 = 10.000000 dB
+Average bit error rate = 1.953125e-06
+number of bits of simulation = 1024000
+
+Total elapsed time: 68(sec)
+
+MAP Equalizer in ISI channel {0.407,0.815,0.407} with Eb/N0 = 0.000000 dB
+Average bit error rate = 1.721650e-01
+number of bits of simulation = 1024000
+
+MAP Equalizer in ISI channel {0.407,0.815,0.407} with Eb/N0 = 2.000000 dB
+Average bit error rate = 1.290723e-01
+number of bits of simulation = 1024000
+
+MAP Equalizer in ISI channel {0.407,0.815,0.407} with Eb/N0 = 4.000000 dB
+Average bit error rate = 7.672559e-02
+number of bits of simulation = 1024000
+
+MAP Equalizer in ISI channel {0.407,0.815,0.407} with Eb/N0 = 6.000000 dB
+Average bit error rate = 2.870410e-02
+number of bits of simulation = 1024000
+
+MAP Equalizer in ISI channel {0.407,0.815,0.407} with Eb/N0 = 8.000000 dB
+Average bit error rate = 5.445313e-03
+number of bits of simulation = 1024000
+
+MAP Equalizer in ISI channel {0.407,0.815,0.407} with Eb/N0 = 10.000000 dB
+Average bit error rate = 4.218750e-04
+number of bits of simulation = 1024000
+
+Total elapsed time: 74(sec)
+

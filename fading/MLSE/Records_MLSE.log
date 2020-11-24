@@ -1,0 +1,110 @@
+BER Performance of MLSE in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000222
+number of bits of simulation = 10000000
+
+Eb/No     BER
+0.000000 2.176818e-01 2.176818e-01
+2.000000 1.725935e-01 1.725935e-01
+4.000000 1.281717e-01 1.281717e-01
+6.000000 8.841930e-02 8.841930e-02
+8.000000 5.674480e-02 5.674480e-02
+10.000000 3.402700e-02 3.402700e-02
+12.000000 1.947900e-02 1.947900e-02
+14.000000 1.076180e-02 1.076180e-02
+16.000000 5.835900e-03 5.835900e-03
+18.000000 3.106300e-03 3.106300e-03
+20.000000 1.637900e-03 1.637900e-03
+22.000000 8.690000e-04 8.690000e-04
+24.000000 4.482000e-04 4.482000e-04
+26.000000 2.406000e-04 2.406000e-04
+28.000000 1.250000e-04 1.250000e-04
+30.000000 6.760000e-05 6.760000e-05
+
+Total elapsed time: 53786(sec)
+
+BER Performance of MLSE in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+03 (bps)
+f_d * t = 0.222222
+number of bits of simulation = 10000000
+
+Eb/No     BER
+0.000000 2.315519e-01 2.315519e-01
+2.000000 1.887563e-01 1.887563e-01
+4.000000 1.444415e-01 1.444415e-01
+6.000000 1.019138e-01 1.019138e-01
+8.000000 6.573910e-02 6.573910e-02
+10.000000 3.871040e-02 3.871040e-02
+12.000000 2.098710e-02 2.098710e-02
+14.000000 1.088940e-02 1.088940e-02
+16.000000 5.414800e-03 5.414800e-03
+18.000000 2.672000e-03 2.672000e-03
+20.000000 1.342500e-03 1.342500e-03
+22.000000 6.876000e-04 6.876000e-04
+24.000000 3.401000e-04 3.401000e-04
+26.000000 1.790000e-04 1.790000e-04
+28.000000 9.830000e-05 9.830000e-05
+30.000000 5.730000e-05 5.730000e-05
+
+Total elapsed time: 68130(sec)
+
+BER Performance of MLSE in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+06 (bps)
+f_d * t = 0.000222
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 1.144970e-01 1.144970e-01
+1.000000 9.139900e-02 9.139900e-02
+2.000000 7.038700e-02 7.038700e-02
+3.000000 5.293200e-02 5.293200e-02
+4.000000 3.825200e-02 3.825200e-02
+5.000000 2.617400e-02 2.617400e-02
+6.000000 1.786200e-02 1.786200e-02
+7.000000 1.152900e-02 1.152900e-02
+8.000000 7.270000e-03 7.270000e-03
+9.000000 4.548000e-03 4.548000e-03
+10.000000 2.752000e-03 2.752000e-03
+
+Total elapsed time: 2751(sec)
+
+BER Performance of MLSE in Multipath Fading Channel
+3-path Rayleigh fading channel with equal strength
+Multipath weighting factor: {0.577, 0.577, 0.577}
+Speed of the vehicle = 120.000000 (km/h)
+Carrier Frequency = 2.000000e+09 (Hz)
+Maximum Doppler Frequency = 222.222222 (Hz)
+Transmission bit Rate = 1.000000e+03 (bps)
+f_d * t = 0.222222
+number of bits of simulation = 1000000
+
+Eb/No     BER
+0.000000 1.225010e-01 1.225010e-01
+1.000000 9.790200e-02 9.790200e-02
+2.000000 7.690400e-02 7.690400e-02
+3.000000 5.734300e-02 5.734300e-02
+4.000000 4.107800e-02 4.107800e-02
+5.000000 2.795900e-02 2.795900e-02
+6.000000 1.873900e-02 1.873900e-02
+7.000000 1.151000e-02 1.151000e-02
+8.000000 7.125000e-03 7.125000e-03
+9.000000 4.140000e-03 4.140000e-03
+10.000000 2.372000e-03 2.372000e-03
+
+Total elapsed time: 2306(sec)
+

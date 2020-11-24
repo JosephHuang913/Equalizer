@@ -1,0 +1,16 @@
+close; 
+clear;
+
+load ber_MAPEQ.log;
+i=1:1:11;
+semilogy(ber_MAPEQ(i,1), ber_MAPEQ(i,2), '-ro');
+hold on;
+grid on;
+
+title('BER Performance of MAP Equalizer in Multipath Rayleigh Fading Channel');
+xlabel('E_b/N_0 (dB)');
+ylabel('Probability of Bit Error');
+%axis([0 10 1e-6 1]);
+
+legend('BCJR Algorithm', 'Path Weighting Factor: \{0.577,0.577,0.577\}');
+%print -djpeg100 MAP_EQ_fading.jpg;

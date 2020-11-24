@@ -1,0 +1,38 @@
+close; 
+clear;
+
+load ber_MMSE120_95.log;
+i=1:1:16;
+semilogy(ber_MMSE120_95(i,1), ber_MMSE120_95(i,2), '-ro');
+hold on;
+grid on;
+
+load ber_MMSE3.log;
+i=1:1:16;
+semilogy(ber_MMSE3(i,1), ber_MMSE3(i,2), '-g^');
+
+%load ber_MMSE2.log;
+%i=1:1:11;
+%semilogy(ber_MMSE2(i,1), ber_MMSE2(i,2), '-bx');
+
+%load ber_MMSE1.log;
+%i=1:1:11;
+%semilogy(ber_MMSE1(i,1), ber_MMSE1(i,2), '-ms');
+
+%load ber_MLSE.log;
+%i=1:1:11;
+%semilogy(ber_MLSE(i,1), ber_MLSE(i,2), '-.k.');
+
+%gamma=0:1:10;
+%gamma_c=10.^(gamma./10)./3;
+%mju=sqrt(gamma_c./(1+gamma_c));
+%Pb=((1/2).*(1-mju)).^3.*(1+3.*((1/2).*(1+mju)).^1+6.*((1/2).*(1+mju)).^2);
+%semilogy(gamma, Pb, '-k.');
+
+title('BER Performance of Adaptive MMSE Equalizer in ISI Channel');
+xlabel('E_b/N_0 (dB)');
+ylabel('Probability of Bit Error');
+axis([0 30 1e-6 1]);
+
+%legend('\{0.577, 0.577, 0.577\}', '\{0.407, 0.815, 0.407\}', '\{0.2096, 0.9551, 0.2096\}', '\{0.0, 1.0, 0.0\}', 'MLSE, \{0.407, 0.815, 0.407\}', 4);
+%print -djpeg100 MMSE_EQ_RLS_fading.jpg;
